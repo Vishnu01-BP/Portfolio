@@ -121,7 +121,7 @@ const Hero = () => {
               transition={{ delay: 0.6, duration: 0.6 }}
               className="text-lg text-gray-400 mb-8 max-w-xl leading-relaxed"
             >
-              Specialist in crafting seamless web experiences with expertise in Data Engineering, 
+              Specialist in crafting seamless web and app experiences with expertise in Data Engineering, 
               AI/ML solutions, and a passion for innovation.
             </motion.p>
 

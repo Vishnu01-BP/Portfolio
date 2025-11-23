@@ -106,7 +106,7 @@ const About = () => {
             <div className="space-y-6 text-lg text-gray-300 leading-relaxed">
               <p>
                 I'm a full-stack developer with over two years of experience crafting user-centric, 
-                responsive web applications. With a strong foundation in React JS, Next.js, Node.js, 
+                responsive web and mobile applications. With a strong foundation in React JS, Next.js, Node.js, 
                 Express.js, and MongoDB, I've worked extensively on both front-end and back-end technologies, 
                 enhancing performance and user experience for users at Mindsnack, Bengaluru.
               </p>
